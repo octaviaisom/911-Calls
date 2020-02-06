@@ -1,17 +1,18 @@
 # 911 Calls
 
- 
-## Project Description/Outline
+## Project Description
 
+Analyze the frequency of 911 calls
 
-## Research Question to Answer
+## Research Questions
 
 1. 
 2. 
 3. 
 
-## Data Source
+## Data Source(s)
 
+1. [911 Calls - Kaggle Dataset](https://www.kaggle.com/mchirico/montcoalert)
 
 ## Data Exploration Process
   
