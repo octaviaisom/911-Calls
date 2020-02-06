@@ -7,9 +7,11 @@ Analyze the frequency of 911 calls in Philadelphia, PA between late-2015 and 201
 
 ## Research Questions
 
-1. 
-2. 
-3. 
+1. Which areas have the highest call volume?
+2. Is call volume consistent overtime?
+    a. If not, what is causing outliers
+3. Which days of the week and times of the day have the highest call volumes
+4. When considering an individual call reason (Traffice, EMA, Fire), do the answers to the above questions differ
 
 ## Data Source(s)
 
