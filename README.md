@@ -18,7 +18,3 @@ Analyze the frequency of 911 calls in Philadelphia, PA between late-2015 and 201
 ## Data Source(s)
 
 1. [911 Calls - Kaggle Dataset](https://www.kaggle.com/mchirico/montcoalert)
-<<<<<<< HEAD
-=======
-
->>>>>>> c7a5906122b7599227ef6ae5826c6e47b3951692
